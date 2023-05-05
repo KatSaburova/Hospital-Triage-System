@@ -1,6 +1,6 @@
 # Hospital-Triage-System
 
-Project Team Members: Lukas DeLoach, Emma Zimmerman, Iker Martinez, Kat Saburov, and Neiloy Hossain
+Project Team Members: Lukas DeLoach, Emma Zimmerman, Iker Martinez, Yekaterina Saburova, and Neiloy Hossain
 
 Project Goal: To facilitate movement in Hospital during Emergencies.
 
